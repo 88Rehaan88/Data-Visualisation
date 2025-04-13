@@ -3,6 +3,8 @@
 ## 📊 Overview
 This interactive Tableau dashboard visualizes insights from a cardiovascular disease dataset, focusing on how various health factors—such as **age**, **cholesterol**, **BMI**, and **blood pressure**—relate to the prevalence of **heart disease**. The goal is to uncover patterns that may help in early detection or risk assessment.
 
+<img src="https://github.com/user-attachments/assets/48cc0017-2263-4bc9-9b88-61d3c14842ae" width="500">
+
 ## ✅ Key Insights
 - **Heart disease prevalence increases with age**, especially in individuals over 50.
 - **Higher cholesterol levels** are associated with a higher risk of heart disease.
