@@ -48,8 +48,6 @@ This interactive Tableau dashboard visualizes insights from a cardiovascular dis
 
 ## 🖼️ Preview
 
-![Cardiovascular Dashboard](./images/cardio_dashboard.png)
-
 ## 🌐 View the Dashboard Online
 🔗 *[Link to interactive version on Tableau Public (if uploaded)](https://public.tableau.com/views/CardiovascularViz/Dashboard32?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*  
 
