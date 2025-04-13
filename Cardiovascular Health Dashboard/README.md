@@ -58,6 +58,3 @@ This interactive Tableau dashboard visualizes insights from a cardiovascular dis
 
 ## 📝 Dataset Source
 - Kaggle: [Cardiovascular Disease Dataset](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset)
-
-## 📄 License
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
